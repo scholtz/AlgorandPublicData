@@ -13,7 +13,7 @@
     {
         "providerName": "Pure Stake",
         "providerURL": "https://www.purestake.com",
-        "algodHost": "https://mainnet-algorand.api.purestake.io/ps2",
+        "algodHost": "https://testnet-algorand.api.purestake.io/ps2",
         "algodPort": 443,
         "header": "x-api-key",
         "token": "",
@@ -24,7 +24,7 @@
     {
         "providerName": "Algo Node",
         "providerURL": "https://algonode.io",
-        "algodHost": "https://mainnet-api.algonode.cloud",
+        "algodHost": "https://testnet-api.algonode.cloud",
         "algodPort": 443,
         "header": "",
         "token": "",
