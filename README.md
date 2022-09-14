@@ -22,6 +22,8 @@ Folder `algod`
 
 List of algorand participation nodes, or archival nodes accessible by public for requesting for example tx params before the transactions or submitting the tx to the blockchain.
 
+Programmers, feel free to use the public jsons as the source of data. Eg. https://scholtz.github.io/AlgorandPublicData/algod/mainnet-v1.0/public-algod-providers.json
+
 ## Algorand indexer
 
 Folder `indexer`
