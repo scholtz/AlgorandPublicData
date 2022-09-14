@@ -41,3 +41,5 @@ List of algorand public validator servers.
 Folder `genesis`
 
 Genesis data for algorand type networks.
+
+List of algorand type of projects can be loaded from https://scholtz.github.io/AlgorandPublicData/genesis/genesis-list.json
