@@ -2,7 +2,7 @@
     {
         "providerName": "Rand Labs",
         "providerURL": "https://randlabs.io",
-        "indexerHost": "https://node.algoexplorerapi.io",
+        "indexerHost": "https://algoindexer.algoexplorerapi.io",
         "indexerPort": 443,
         "header": "",
         "token": "",
