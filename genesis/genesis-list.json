@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Algorand Mainnet",
+        "network": "mainnet-v1.0"
+    },
+    {
+        "name":"Algorand Testnet",
+        "network": "testnet-v1.0"
+    },
+    {
+        "name":"Aramid Mainnet",
+        "network": "aramidmain-v1.0"
+    }
+]
