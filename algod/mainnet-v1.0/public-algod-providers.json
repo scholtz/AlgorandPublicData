@@ -1,0 +1,35 @@
+[
+    {
+        "providerName": "Rand Labs",
+        "providerURL": "https://randlabs.io",
+        "algodHost": "https://node.algoexplorerapi.io",
+        "algodPort": 443,
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    },
+    {
+        "providerName": "Pure Stake",
+        "providerURL": "https://www.purestake.com",
+        "algodHost": "https://mainnet-algorand.api.purestake.io/ps2",
+        "algodPort": 443,
+        "header": "x-api-key",
+        "token": "",
+        "registrationRequired": true,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    },
+    {
+        "providerName": "Algo Node",
+        "providerURL": "https://algonode.io",
+        "algodHost": "https://mainnet-api.algonode.cloud",
+        "algodPort": 443,
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    }
+]

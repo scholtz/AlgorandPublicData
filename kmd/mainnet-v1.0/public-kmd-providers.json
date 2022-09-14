@@ -1,0 +1,13 @@
+[
+    {
+        "providerName": "Scholtz&Co",
+        "providerURL": "https://www.a-wallet.net",
+        "algodHost": "https://kmd.h2.a-wallet.net",
+        "algodPort": 443,
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    }
+]

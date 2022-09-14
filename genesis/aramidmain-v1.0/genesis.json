@@ -1,0 +1,45 @@
+{
+    "alloc": [
+      {
+        "addr": "ARAMIDAGHGOKGERK74V24GDMM6XDXRYGUFA3R7HOTLV2N3AOMIZEG46Y54",
+        "comment": "IN DEFI WE TRUST",
+        "state": {
+          "algo": 9999999991000000
+        }
+      },
+      {
+        "addr": "QEOOLNM3NAKQFHGS6HMKX3CGVN546LY3KXO3GPKA45P3RQU7UYOJ33D6T4",
+        "comment": "FeeSink",
+        "state": {
+          "algo": 3000000,
+          "onl": 2
+        }
+      },
+      {
+        "addr": "OYZXJPHMA3BTD4H27R372NA7LSVGHJBANPSIKZRSMCFAME5K7ZSGJQLQYM",
+        "comment": "RewardsPool",
+        "state": {
+          "algo": 3000000,
+          "onl": 2
+        }
+      },
+      {
+        "addr": "GENGIKWUTGOCOIZU2XWYFIZO5T3YFXCHNFLVRC6JEIIL6WFMZUJNJVI2E4",
+        "comment": "W1",
+        "state": {
+          "algo": 3000000,
+          "onl": 1,
+          "sel": "sDOq4VL52MlBHwV4qH64P9TCF5uqwHl0nvrNYuWfz28=",
+          "stprf": "5gnReV90C48daYhSBCw0AMJUcR16DiaRMG2s2X9kIkA9Z9TmD12a/emuF1XQMFEIgVLDyw/E3AYpDoUTswHJOQ==",
+          "vote": "0OQ18iXfq3FjG7I1pIjriI3fv5zCBBvurqUbdxskN9s=",
+          "voteKD": 10000,
+          "voteLst": 3000000
+        }
+      }
+    ],
+    "fees": "QEOOLNM3NAKQFHGS6HMKX3CGVN546LY3KXO3GPKA45P3RQU7UYOJ33D6T4",
+    "id": "v1.0",
+    "network": "aramidmain",
+    "proto": "aramidmain-v1.0/1",
+    "rwd": "OYZXJPHMA3BTD4H27R372NA7LSVGHJBANPSIKZRSMCFAME5K7ZSGJQLQYM"
+  }

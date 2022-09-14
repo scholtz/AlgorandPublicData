@@ -1,0 +1,35 @@
+[
+    {
+        "providerName": "Rand Labs",
+        "providerURL": "https://randlabs.io",
+        "indexerHost": "https://algoindexer.testnet.algoexplorerapi.io",
+        "indexerPort": 443,
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    },
+    {
+        "providerName": "Pure Stake",
+        "providerURL": "https://www.purestake.com",
+        "indexerHost": "https://testnet-algorand.api.purestake.io/idx2",
+        "indexerPort": 443,
+        "header": "x-api-key",
+        "token": "",
+        "registrationRequired": true,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    },
+    {
+        "providerName": "Algo Node",
+        "providerURL": "https://algonode.io",
+        "indexerHost": "https://testnet-idx.algonode.cloud",
+        "indexerPort": 443,
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    }
+]

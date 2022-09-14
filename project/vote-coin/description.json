@@ -1,0 +1,10 @@
+{
+    "Name": "Vote Coin",
+    "Description": "Vote Coin is a governance token and open source software for decentralized voting. Vote Coin solves the decentralized governance problem by providing an efficient mechanism by which decentralized organizations can ask questions through blockchain or verify their own list of KYC verified members, members can cast votes through blockchain, delegate their voting power to other members. Vote Coin main vision is to allow Pure knowledge based democracy become reality.",
+    "tags":["DAO","Voting","decision making"],
+    "tokens": {
+        "mainnet-v1.0": [452399768],
+        "testnet-v1.0": [48806985]
+    },
+    "primaryLogo":"project/vote-coin/logo/452399768.png"
+}
