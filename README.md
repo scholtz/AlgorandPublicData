@@ -2,7 +2,7 @@
 
 Algorand Public Data project provides public json data about algorand nodes and projects
 
-Please help improve this data service. If you run or know about service which is not listed here, please create pull request.
+Please help improve this data service. If you run or know about service which is not listed here, please create pull request. https://github.com/scholtz/AlgorandPublicData
 
 Organization of the data:
 
