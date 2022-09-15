@@ -1,6 +1,6 @@
 # Algorand Public Data
 
-Algorand Public Data project provides public json data about algorand nodes and projects
+Algorand Public Data project provides public json data about algorand nodes and projects. Public view: https://scholtz.github.io/AlgorandPublicData/
 
 Please help improve this data service. If you run or know about service which is not listed here, please create pull request. https://github.com/scholtz/AlgorandPublicData
 
