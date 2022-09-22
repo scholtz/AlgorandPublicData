@@ -1,6 +1,17 @@
 [
     {
-        "providerName": "Scholtz&Co",
+        "providerName": "Scholtz&Co DE KMD",
+        "providerURL": "https://www.a-wallet.net",
+        "kmdHost": "https://kmd.h3.a-wallet.net",
+        "kmdPort": 443,
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
+        "providerName": "Scholtz&Co FI KMD",
         "providerURL": "https://www.a-wallet.net",
         "kmdHost": "https://kmd.h2.a-wallet.net",
         "kmdPort": 443,
