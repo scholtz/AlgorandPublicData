@@ -10,5 +10,9 @@
     {
         "name":"Aramid Mainnet",
         "network": "aramidmain-v1.0"
+    },
+    {
+        "name":"Kubernetes sandbox",
+        "network": "sandnet-v1"
     }
 ]

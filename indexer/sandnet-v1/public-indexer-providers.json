@@ -1,0 +1,13 @@
+[
+    {
+        "providerName": "Kubernetes Sandbox",
+        "providerURL": "https://github.com/scholtz/AlgorandNodes/blob/main/kubernetes/sandbox/sandbox.yaml",
+        "indexerHost": "http://localhost",
+        "indexerPort": 8980,
+        "header": "X-Indexer-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 9999
+    }
+]

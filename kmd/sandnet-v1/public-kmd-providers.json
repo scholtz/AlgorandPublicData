@@ -1,0 +1,13 @@
+[
+    {
+        "providerName": "Kubernetes Sandbox",
+        "providerURL": "https://github.com/scholtz/AlgorandNodes/blob/main/kubernetes/sandbox/sandbox.yaml",
+        "kmdHost": "http://localhost",
+        "kmdPort": 18888,
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    }
+]
