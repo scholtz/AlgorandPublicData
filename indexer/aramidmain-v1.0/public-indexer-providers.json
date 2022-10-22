@@ -4,6 +4,7 @@
         "providerURL": "https://www.a-wallet.net",
         "indexerHost": "https://indexer.aramidmain.a-wallet.net",
         "indexerPort": 443,
+        "host": "https://indexer.aramidmain.a-wallet.net",
         "header": "X-Algo-API-Token",
         "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         "registrationRequired": false,

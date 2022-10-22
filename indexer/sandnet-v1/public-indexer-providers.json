@@ -4,6 +4,7 @@
         "providerURL": "https://github.com/scholtz/AlgorandNodes/blob/main/kubernetes/sandbox/sandbox.yaml",
         "indexerHost": "http://localhost",
         "indexerPort": 8980,
+        "host": "http://localhost:8980",
         "header": "X-Indexer-API-Token",
         "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         "registrationRequired": false,

@@ -4,6 +4,7 @@
         "providerURL": "https://github.com/scholtz/AlgorandNodes/blob/main/kubernetes/sandbox/sandbox.yaml",
         "algodHost": "http://localhost",
         "algodPort": 4001,
+        "host": "http://localhost:4001",
         "header": "X-Algo-API-Token",
         "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         "registrationRequired": false,
