@@ -1,0 +1,12 @@
+[
+    {
+        "providerName": "Aramid Finance",
+        "providerURL": "https://2famsig.k8s.aramid.finance",
+        "host": "https://2famsig.k8s.aramid.finance",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 10
+    }
+]
