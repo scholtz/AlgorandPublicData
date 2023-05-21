@@ -6,6 +6,14 @@ Please help improve this data service. If you run or know about service which is
 
 Organization of the data:
 
+## Genesis data
+
+Folder `genesis`
+
+Genesis data for algorand type networks.
+
+List of algorand type of projects can be loaded from https://scholtz.github.io/AlgorandPublicData/genesis/genesis-list.json
+
 ## List of algorand projects
 
 Folder `project`
@@ -30,16 +38,14 @@ Folder `indexer`
 
 List of algorand indexers. APIs to query algorand blockchain.
 
-## KMD servers
+## Participation servers
 
-Folder `kmd`
+Folder `participation`
 
-List of algorand public validator servers.
+List of algorand public participation servers.
 
-## Genesis data
+## 2FA servers
 
-Folder `genesis`
+Folder `2fa`
 
-Genesis data for algorand type networks.
-
-List of algorand type of projects can be loaded from https://scholtz.github.io/AlgorandPublicData/genesis/genesis-list.json
+List of algorand public 2fa servers.
