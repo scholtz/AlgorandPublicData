@@ -1,5 +1,6 @@
 [
     {
+        "id": "ffabf71a-0029-4ecb-8724-5aafacf34e77",
         "providerName": "Algo Node",
         "providerURL": "https://algonode.io",
         "algodHost": "https://mainnet-api.algonode.cloud",
@@ -12,6 +13,7 @@
         "limitPerSecond": 50
     },
     {
+        "id": "e06b398d-001e-4b3f-aceb-4881b5a5df13",
         "providerName": "Rand Labs",
         "providerURL": "https://randlabs.io",
         "algodHost": "https://node.algoexplorerapi.io",
@@ -24,6 +26,7 @@
         "limitPerSecond": 10
     },
     {
+        "id": "470a8ea6-f65e-4f09-b4e4-f80d0d67d1f3",
         "providerName": "Pure Stake",
         "providerURL": "https://www.purestake.com",
         "algodHost": "https://mainnet-algorand.api.purestake.io/ps2",

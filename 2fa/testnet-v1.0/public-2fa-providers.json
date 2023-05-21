@@ -1,5 +1,6 @@
 [
     {
+        "id": "0f99e8ef-3fb5-4357-8748-89554e8196c3",
         "providerName": "Aramid Finance",
         "providerURL": "https://aramid.finance",
         "host": "https://2famsig-testnet.k8s.aramid.finance",

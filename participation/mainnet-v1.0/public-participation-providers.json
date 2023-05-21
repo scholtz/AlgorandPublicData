@@ -1,6 +1,7 @@
 [
     {
-        "providerName": "Scholtz&Co DE KMD",
+        "id": "ad2d1e86-9538-4803-96c0-15e9ad4d7eb8",
+        "providerName": "Scholtz&Co Participation server Germany",
         "providerURL": "https://www.a-wallet.net",
         "kmdHost": "https://kmd.h3.a-wallet.net",
         "kmdPort": 443,
@@ -12,7 +13,8 @@
         "limitPerSecond": 0.1
     },
     {
-        "providerName": "Scholtz&Co FI KMD",
+        "id": "262312ea-68a1-446e-be6e-e8437e924a82",
+        "providerName": "Scholtz&Co Participation server Finland",
         "providerURL": "https://www.a-wallet.net",
         "kmdHost": "https://kmd.h2.a-wallet.net",
         "kmdPort": 443,

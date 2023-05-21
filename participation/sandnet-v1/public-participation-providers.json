@@ -1,5 +1,6 @@
 [
     {
+        "id": "ad9dabab-4779-4a11-b551-dafddbe65ba2",
         "providerName": "Kubernetes Sandbox",
         "providerURL": "https://github.com/scholtz/AlgorandNodes/blob/main/kubernetes/sandbox/sandbox.yaml",
         "kmdHost": "http://localhost",

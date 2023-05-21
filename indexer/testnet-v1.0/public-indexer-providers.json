@@ -1,17 +1,6 @@
 [
     {
-        "providerName": "Rand Labs",
-        "providerURL": "https://randlabs.io",
-        "indexerHost": "https://algoindexer.testnet.algoexplorerapi.io",
-        "indexerPort": 443,
-        "host": "https://algoindexer.testnet.algoexplorerapi.io",
-        "header": "",
-        "token": "",
-        "registrationRequired": false,
-        "supportsARC0014": false,
-        "limitPerSecond": 10
-    },
-    {
+        "id": "c5a55afa-d4dc-4817-9209-8dcf65582555",
         "providerName": "Pure Stake",
         "providerURL": "https://www.purestake.com",
         "indexerHost": "https://testnet-algorand.api.purestake.io/idx2",
@@ -24,6 +13,7 @@
         "limitPerSecond": 10
     },
     {
+        "id": "abeb57e5-21dd-4e75-817e-6fb6615aade8",
         "providerName": "Algo Node",
         "providerURL": "https://algonode.io",
         "indexerHost": "https://testnet-idx.algonode.cloud",
@@ -34,5 +24,18 @@
         "registrationRequired": false,
         "supportsARC0014": false,
         "limitPerSecond": 50
+    },
+    {
+        "id": "73cebcbf-3a55-495e-9c6b-92c94add7ec2",
+        "providerName": "Rand Labs",
+        "providerURL": "https://randlabs.io",
+        "indexerHost": "https://algoindexer.testnet.algoexplorerapi.io",
+        "indexerPort": 443,
+        "host": "https://algoindexer.testnet.algoexplorerapi.io",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
     }
 ]
