@@ -1,5 +1,17 @@
 [
     {
+        "providerName": "Algo Node",
+        "providerURL": "https://algonode.io",
+        "algodHost": "https://mainnet-api.algonode.cloud",
+        "algodPort": 443,
+        "host": "https://mainnet-api.algonode.cloud",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    },
+    {
         "providerName": "Rand Labs",
         "providerURL": "https://randlabs.io",
         "algodHost": "https://node.algoexplorerapi.io",
@@ -22,17 +34,5 @@
         "registrationRequired": true,
         "supportsARC0014": false,
         "limitPerSecond": 10
-    },
-    {
-        "providerName": "Algo Node",
-        "providerURL": "https://algonode.io",
-        "algodHost": "https://mainnet-api.algonode.cloud",
-        "algodPort": 443,
-        "host": "https://mainnet-api.algonode.cloud",
-        "header": "",
-        "token": "",
-        "registrationRequired": false,
-        "supportsARC0014": false,
-        "limitPerSecond": 50
     }
 ]
