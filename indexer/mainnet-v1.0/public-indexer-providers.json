@@ -1,5 +1,18 @@
 [
     {
+        "id": "bb416c04-c62f-4cdd-a65e-d7d016ebb756",
+        "providerName": "Algo Node",
+        "providerURL": "https://algonode.io",
+        "indexerHost": "https://mainnet-idx.algonode.cloud",
+        "indexerPort": 443,
+        "host": "https://mainnet-idx.algonode.cloud",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    },
+    {
         "id": "9b0a0e79-0bd0-464a-be92-5adb00b5193b",
         "providerName": "Rand Labs",
         "providerURL": "https://randlabs.io",
@@ -24,18 +37,5 @@
         "registrationRequired": true,
         "supportsARC0014": false,
         "limitPerSecond": 10
-    },
-    {
-        "id": "bb416c04-c62f-4cdd-a65e-d7d016ebb756",
-        "providerName": "Algo Node",
-        "providerURL": "https://algonode.io",
-        "indexerHost": "https://mainnet-idx.algonode.cloud",
-        "indexerPort": 443,
-        "host": "https://mainnet-idx.algonode.cloud",
-        "header": "",
-        "token": "",
-        "registrationRequired": false,
-        "supportsARC0014": false,
-        "limitPerSecond": 50
     }
 ]
