@@ -1,5 +1,16 @@
 [
     {
+        "id": "e507992a-1bf3-4911-aa4b-18aaf5c5488e",
+        "providerName": "AWallet DE",
+        "providerURL": "https://www.a-wallet.net",
+        "host": "https://2fa-mainnet.h3.a-wallet.net",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 10
+    },
+    {
         "id": "e3b7839e-ce5b-49f9-aa8c-2e3dbc73ed13",
         "providerName": "Aramid Finance",
         "providerURL": "https://2famsig.k8s.aramid.finance",
