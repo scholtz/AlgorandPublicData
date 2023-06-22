@@ -1,6 +1,7 @@
 [
     {
         "id": "f6704810-3f19-4feb-9711-86cca607e16b",
+        "chainId": "101003",
         "providerName": "Scholtz&Co",
         "providerURL": "https://www.a-wallet.net",
         "algodHost": "https://algod.aramidmain.a-wallet.net",
