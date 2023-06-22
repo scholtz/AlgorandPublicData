@@ -2,21 +2,25 @@
     {
         "id": "8f062d57-c22d-4538-b4e7-e31de470808c",
         "name":"Algorand Mainnet",
-        "network": "mainnet-v1.0"
+        "network": "mainnet-v1.0",
+        "chainId": "416001"
     },
     {
         "id": "800ac1b0-4e74-43b2-9ed6-5c8ab847f58c",
         "name":"Algorand Testnet",
-        "network": "testnet-v1.0"
+        "network": "testnet-v1.0",
+        "chainId": "416002"
     },
     {
         "id": "838556dd-cc80-4399-9f6a-ee424e8c3f97",
         "name":"Aramid Mainnet",
-        "network": "aramidmain-v1.0"
+        "network": "aramidmain-v1.0",
+        "chainId": "101003"
     },
     {
         "id": "2f73ea9d-286b-47b0-a038-5468896051a5",
         "name":"Kubernetes sandbox",
-        "network": "sandnet-v1"
+        "network": "sandnet-v1",
+        "chainId": "416000"
     }
 ]
