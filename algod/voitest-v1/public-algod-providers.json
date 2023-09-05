@@ -1,3 +1,15 @@
-{
-  
-}
+[
+  {
+        "id": "5ea9fc2d-8d4a-48dc-8fc6-77edf9b21672",
+        "providerName": "Nodly",
+        "providerURL": "https://nodly.io",
+        "algodHost": "https://testnet-api.voi.nodly.io",
+        "algodPort": 443,
+        "host": "https://testnet-api.voi.nodly.io",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    }
+]
