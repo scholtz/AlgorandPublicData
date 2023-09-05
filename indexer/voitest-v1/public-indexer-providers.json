@@ -1,1 +1,15 @@
-[]
+[
+  {
+        "id": "6ff9606d-7f96-42cf-ad60-f613c3ddae2c",
+        "providerName": "Nodely",
+        "providerURL": "https://nodly.io",
+        "indexerHost": "https://testnet-idx.voi.nodly.io",
+        "indexerPort": 443,
+        "host": "https://testnet-idx.voi.nodly.io",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    }
+]
