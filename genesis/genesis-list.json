@@ -26,5 +26,12 @@
         "network": "sandnet-v1",
         "chainId": "416000",
         "CAIP10": "SandBox"
+    },
+    {
+        "id": "db26c756-0d78-4edc-a48d-b55c1bc8f797",
+        "name":"Voi Testnet",
+        "network": "voitest-v1",
+        "chainId": "416102",
+        "CAIP10": "IXnoWtviVVJW5LGivNFc0Dq14V3kqaXu"
     }
 ]
