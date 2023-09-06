@@ -11,5 +11,18 @@
         "registrationRequired": false,
         "supportsARC0014": false,
         "limitPerSecond": 10
+    },
+    {
+        "id": "eb030d26-44d3-4ae7-baaa-5d409e7be03b",
+        "providerName": "AWallet - Scholtz&Co",
+        "providerURL": "https://www.a-wallet.net",
+        "algodHost": "https://voitest-api.k1-fi.a-wallet.net",
+        "algodPort": 443,
+        "host": "https://voitest-api.k1-fi.a-wallet.net",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
     }
 ]
