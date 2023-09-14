@@ -13,6 +13,19 @@
         "limitPerSecond": 0.1
     },
     {
+        "id": "57f3ab8d-5d4b-48cc-a6a9-69fdd8ad40f7",
+        "providerName": "AWallet Participation server Germany - Scholtz&Co",
+        "providerURL": "https://www.a-wallet.net",
+        "kmdHost": "https://voitest-participation.h3.a-wallet.net",
+        "kmdPort": 443,
+        "host": "https://voitest-participation.h3.a-wallet.net",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
         "id": "8e5f83a5-a96c-4c3c-b39d-9cf840a82573",
         "providerName": "AWallet Participation server Atlanta - Scholtz&Co",
         "providerURL": "https://www.a-wallet.net",
