@@ -1,0 +1,15 @@
+[
+    {
+        "id": "8754b390-ccd5-4f4c-9929-1980041a50e7",
+        "providerName": "Nodely",
+        "providerURL": "https://nodely.io",
+        "algodHost": "https://betanet-api.algonode.cloud",
+        "algodPort": 443,
+        "host": "https://betanet-api.algonode.cloud",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    }
+]

@@ -21,6 +21,13 @@
         "CAIP10": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDe"
     },
     {
+        "id": "6a0d2af1-7cdd-4b3f-9c90-de0ca4d95d45",
+        "name":"Algorand Betanet",
+        "network": "betanet-v1.0",
+        "chainId": "416003",
+        "CAIP10": "mFgazF+2uRS1tMiL9dsj01hJGySEmPN2"
+    },
+    {
         "id": "db26c756-0d78-4edc-a48d-b55c1bc8f797",
         "name":"Voi Testnet",
         "network": "voitest-v1",

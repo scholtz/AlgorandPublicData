@@ -1,0 +1,15 @@
+[
+    {
+        "id": "2ced6024-004c-4d97-aad2-1a07bc9a5d8e",
+        "providerName": "Nodely",
+        "providerURL": "https://nodely.io",
+        "indexerHost": "https://betanet-idx.algonode.cloud",
+        "indexerPort": 443,
+        "host": "https://betanet-idx.algonode.cloud",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    }
+]
