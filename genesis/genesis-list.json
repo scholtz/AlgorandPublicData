@@ -11,7 +11,7 @@
         "name":"Aramid Mainnet",
         "network": "aramidmain-v1.0",
         "chainId": "101003",
-        "CAIP10": "PgeQVJJgx/LYKJfIEz7dbfNPuXmDyJ+O"
+        "CAIP10": "PgeQVJJgx_LYKJfIEz7dbfNPuXmDyJ-O"
     },
     {
         "id": "800ac1b0-4e74-43b2-9ed6-5c8ab847f58c",
@@ -25,7 +25,7 @@
         "name":"Algorand Betanet",
         "network": "betanet-v1.0",
         "chainId": "416003",
-        "CAIP10": "mFgazF+2uRS1tMiL9dsj01hJGySEmPN2"
+        "CAIP10": "mFgazF-2uRS1tMiL9dsj01hJGySEmPN2"
     },
     {
         "id": "db26c756-0d78-4edc-a48d-b55c1bc8f797",
