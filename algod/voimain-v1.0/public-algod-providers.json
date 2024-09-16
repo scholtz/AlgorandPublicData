@@ -1,0 +1,15 @@
+[
+    {
+        "id": "06617047-fdb5-4276-9a68-9a288e8096c7",
+        "providerName": "Biatec - Scholtz&Co",
+        "providerURL": "https://www.biatec.io",
+        "algodHost": "https://voimain-algod-public.de.nodes.biatec.io",
+        "algodPort": 443,
+        "host": "https://voimain-indexer-public.de.nodes.biatec.io",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    }
+]

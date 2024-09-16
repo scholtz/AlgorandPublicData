@@ -1,0 +1,15 @@
+[
+  {
+        "id": "550550c0-171c-4365-8b86-b02f3a88a069",
+        "providerName": "Biatec - Scholtz&Co",
+        "providerURL": "https://www.biatec.io",
+        "indexerHost": "https://voimain-indexer-public.de.nodes.biatec.io",
+        "indexerPort": 443,
+        "host": "https://voimain-indexer-public.de.nodes.biatec.io",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    }
+]
