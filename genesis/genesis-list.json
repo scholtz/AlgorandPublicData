@@ -28,6 +28,13 @@
         "CAIP10": "mFgazF-2uRS1tMiL9dsj01hJGySEmPN2"
     },
     {
+        "id": "59517f56-d072-43a7-8994-5742a57ec039",
+        "name":"Voi Mainnet",
+        "network": "voimain-v1.0",
+        "chainId": "416101",
+        "CAIP10": "r20fSQI8gWe_kFZziNonSPCXLwcQmH_n"
+    },
+    {
         "id": "db26c756-0d78-4edc-a48d-b55c1bc8f797",
         "name":"Voi Testnet",
         "network": "voitest-v1",
