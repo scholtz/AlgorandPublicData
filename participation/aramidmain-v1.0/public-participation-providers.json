@@ -11,5 +11,18 @@
         "registrationRequired": false,
         "supportsARC0014": true,
         "limitPerSecond": 0.1
+    },
+    {
+        "id": "1bc87a11-a8de-4f74-b51c-8bf69675d851",
+        "providerName": "Biatec Aramid Participation server Finland",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://aramidmain-participation.fi.biatec.io",
+        "kmdPort": 443,
+        "host": "https://aramidmain-participation.fi.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
     }
 ]
