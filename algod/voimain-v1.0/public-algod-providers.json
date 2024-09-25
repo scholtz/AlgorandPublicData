@@ -5,7 +5,7 @@
         "providerURL": "https://www.biatec.io",
         "algodHost": "https://voimain-algod-public.de.nodes.biatec.io",
         "algodPort": 443,
-        "host": "https://voimain-indexer-public.de.nodes.biatec.io",
+        "host": "https://voimain-algod-public.de.nodes.biatec.io",
         "header": "",
         "token": "",
         "registrationRequired": false,
