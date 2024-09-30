@@ -1,0 +1,15 @@
+[
+    {
+        "id": "fe00d5e4-fb2b-43e0-b9ae-90a8a0b325c0",
+        "providerName": "Nodely",
+        "providerURL": "https://nodely.io",
+        "algodHost": "https://fnet-api.4160.nodely.dev",
+        "algodPort": 443,
+        "host": "https://fnet-api.4160.nodely.dev",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    }
+]

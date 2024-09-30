@@ -42,6 +42,13 @@
         "CAIP10": "IXnoWtviVVJW5LGivNFc0Dq14V3kqaXu"
     },
     {
+        "id": "05c819fe-20bc-46fc-8f77-5f896c2f13ce",
+        "name":"FNET",
+        "network": "fnet-v1",
+        "chainId": "416105",
+        "CAIP10": "kUt08LxeVAAGHnh4JoAoAMM9ql_hBwSo"
+    },
+    {
         "id": "2f73ea9d-286b-47b0-a038-5468896051a5",
         "name":"Kubernetes sandbox",
         "network": "sandnet-v1",

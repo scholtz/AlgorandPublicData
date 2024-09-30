@@ -1,0 +1,15 @@
+[
+    {
+        "id": "e0ce0813-7b71-4fb5-8b2a-940c699cb43c",
+        "providerName": "Nodely",
+        "providerURL": "https://nodely.io",
+        "indexerHost": "https://fnet-idx.4160.nodely.dev",
+        "indexerPort": 443,
+        "host": "https://fnet-idx.4160.nodely.dev",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 50
+    }
+]
