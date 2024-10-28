@@ -1,2 +1,54 @@
 [
+    {
+        "id": "e79d429f-7e6d-45de-9dd1-ddafa1a9f06f",
+        "providerName": "Biatec Participation server Finland 1",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://voimain-participation-1.fi.biatec.io",
+        "kmdPort": 443,
+        "host": "https://voimain-participation-1.fi.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
+        "id": "4b4ab151-5a30-4f70-9e1e-40f677b10491",
+        "providerName": "Biatec Participation server Finland 2",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://voimain-participation-2.fi.biatec.io",
+        "kmdPort": 443,
+        "host": "https://voimain-participation-2.fi.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
+        "id": "6459eab8-fb00-45f1-8513-f3824645e58e",
+        "providerName": "Biatec Participation server Germany 1",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://voimain-participation-1.de.biatec.io",
+        "kmdPort": 443,
+        "host": "https://voimain-participation-1.de.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
+        "id": "bb45d091-c55a-4e3a-a956-3dc082296d81",
+        "providerName": "Biatec Participation server Germany 2",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://voimain-participation-2.de.biatec.io",
+        "kmdPort": 443,
+        "host": "https://voimain-participation-2.de.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    }
 ]
