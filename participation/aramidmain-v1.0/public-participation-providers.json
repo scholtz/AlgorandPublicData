@@ -37,5 +37,44 @@
         "registrationRequired": false,
         "supportsARC0014": true,
         "limitPerSecond": 0.1
+    },
+    {
+        "id": "66801f07-bb51-4b40-9502-6654ccea6e55",
+        "providerName": "Biatec Aramid Participation server Germany 1",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://aramidmain-participation-1.de.biatec.io",
+        "kmdPort": 443,
+        "host": "https://aramidmain-participation-1.de.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
+        "id": "45901a4a-e23a-43ef-ac5f-376fc72c0c87",
+        "providerName": "Biatec Aramid Participation server Germany 2",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://aramidmain-participation-2.de.biatec.io",
+        "kmdPort": 443,
+        "host": "https://aramidmain-participation-2.de.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
+        "id": "a4bf2511-6a82-47a2-bff8-848218d78ef1",
+        "providerName": "Biatec Aramid Participation server Germany 3",
+        "providerURL": "https://www.biatec.io",
+        "kmdHost": "https://aramidmain-participation-3.de.biatec.io",
+        "kmdPort": 443,
+        "host": "https://aramidmain-participation-3.de.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
     }
 ]
