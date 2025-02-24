@@ -13,6 +13,19 @@
         "limitPerSecond": 0.1
     },
     {
+        "id": "2e6eac58-b06b-4cc3-8e65-14e3477a88de",
+        "providerName": "Scholtz&Co Participation server Germany 2",
+        "providerURL": "https://www.a-wallet.net",
+        "kmdHost": "https://aramid-participation-1.de-4.a-wallet.net",
+        "kmdPort": 443,
+        "host": "https://aramid-participation-1.de-4.a-wallet.net",
+        "header": "X-Algo-API-Token",
+        "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "registrationRequired": false,
+        "supportsARC0014": true,
+        "limitPerSecond": 0.1
+    },
+    {
         "id": "1bc87a11-a8de-4f74-b51c-8bf69675d851",
         "providerName": "Biatec Aramid Participation server Finland",
         "providerURL": "https://www.biatec.io",
