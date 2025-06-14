@@ -4,55 +4,55 @@
         "name":"Algorand Mainnet",
         "network": "mainnet-v1.0",
         "chainId": "416001",
-        "CAIP10": "wGHE2Pwdvd7S12BL5FaOP20EGYesN73k"
+        "CAIP10": "wGHE2Pwdvd7S12BL5FaOP20EGYesN73k",
+        "genesisHash": "wGHE2Pwdvd7S12BL5FaOP20EGYesN73ktiC1qzkkit8="
     },
     {
         "id": "838556dd-cc80-4399-9f6a-ee424e8c3f97",
         "name":"Aramid Mainnet",
         "network": "aramidmain-v1.0",
         "chainId": "101003",
-        "CAIP10": "PgeQVJJgx_LYKJfIEz7dbfNPuXmDyJ-O"
+        "CAIP10": "PgeQVJJgx_LYKJfIEz7dbfNPuXmDyJ-O",
+        "genesisHash": "PgeQVJJgx/LYKJfIEz7dbfNPuXmDyJ+O7FwQ4XL9tE8="
     },
     {
         "id": "800ac1b0-4e74-43b2-9ed6-5c8ab847f58c",
         "name":"Algorand Testnet",
         "network": "testnet-v1.0",
         "chainId": "416002",
-        "CAIP10": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDe"
+        "CAIP10": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDe",
+        "genesisHash": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI="
     },
     {
         "id": "6a0d2af1-7cdd-4b3f-9c90-de0ca4d95d45",
         "name":"Algorand Betanet",
         "network": "betanet-v1.0",
         "chainId": "416003",
-        "CAIP10": "mFgazF-2uRS1tMiL9dsj01hJGySEmPN2"
+        "CAIP10": "mFgazF-2uRS1tMiL9dsj01hJGySEmPN2",
+        "genesisHash": "mFgazF+2uRS1tMiL9dsj01hJGySEmPN28B/TjjvpVW0="
     },
     {
         "id": "59517f56-d072-43a7-8994-5742a57ec039",
         "name":"Voi Mainnet",
         "network": "voimain-v1.0",
         "chainId": "416101",
-        "CAIP10": "r20fSQI8gWe_kFZziNonSPCXLwcQmH_n"
-    },
-    {
-        "id": "db26c756-0d78-4edc-a48d-b55c1bc8f797",
-        "name":"Voi Testnet",
-        "network": "voitest-v1",
-        "chainId": "416102",
-        "CAIP10": "IXnoWtviVVJW5LGivNFc0Dq14V3kqaXu"
+        "CAIP10": "r20fSQI8gWe_kFZziNonSPCXLwcQmH_n",
+        "genesisHash": "r20fSQI8gWe/kFZziNonSPCXLwcQmH/nxROvnnueWOk="
     },
     {
         "id": "05c819fe-20bc-46fc-8f77-5f896c2f13ce",
         "name":"FNET",
         "network": "fnet-v1",
         "chainId": "416105",
-        "CAIP10": "kUt08LxeVAAGHnh4JoAoAMM9ql_hBwSo"
+        "CAIP10": "kUt08LxeVAAGHnh4JoAoAMM9ql_hBwSo",
+        "genesisHash": "kUt08LxeVAAGHnh4JoAoAMM9ql/hBwSoiFtlnKNeOxA="
     },
     {
         "id": "2f73ea9d-286b-47b0-a038-5468896051a5",
         "name":"Kubernetes sandbox",
         "network": "sandnet-v1",
         "chainId": "416000",
-        "CAIP10": "SandBox"
+        "CAIP10": "SandBox",
+        "genesisHash": ""
     }
 ]
