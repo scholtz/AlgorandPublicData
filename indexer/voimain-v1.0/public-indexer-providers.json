@@ -1,5 +1,18 @@
 [
   {
+        "id": "ddcf77b7-c61c-478c-959e-f74d6bbdee66",
+        "providerName": "Nodely",
+        "providerURL": "https://www.nodely.dev",
+        "indexerHost": "https://mainnet-idx.voi.nodely.dev",
+        "indexerPort": 443,
+        "host": "https://mainnet-idx.voi.nodely.dev",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+  },
+  {
         "id": "550550c0-171c-4365-8b86-b02f3a88a069",
         "providerName": "Biatec - Scholtz&Co",
         "providerURL": "https://www.biatec.io",
