@@ -1,5 +1,18 @@
 [
     {
+        "id": "9129708e-cd33-41e3-99bf-dd7b54bdbc9d",
+        "providerName": "Nodely",
+        "providerURL": "https://www.nodely.dev",
+        "algodHost": "https://mainnet-api.voi.nodely.dev",
+        "algodPort": 443,
+        "host": "https://mainnet-api.voi.nodely.dev",
+        "header": "",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
+    },
+    {
         "id": "06617047-fdb5-4276-9a68-9a288e8096c7",
         "providerName": "Biatec - Scholtz&Co",
         "providerURL": "https://www.biatec.io",
