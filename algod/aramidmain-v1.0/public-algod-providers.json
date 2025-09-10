@@ -11,5 +11,18 @@
         "registrationRequired": false,
         "supportsARC0014": false,
         "limitPerSecond": 10
+    },
+    {
+        "id": "adad59fd-e636-418e-a107-b38b4ab267cb",
+        "providerName": "Scholtz&Co",
+        "providerURL": "https://www.biatec.io",
+        "algodHost": "https://aramidmain-algod-public.de.nodes.biatec.io/",
+        "algodPort": 443,
+        "host": "https://aramidmain-algod-public.de.nodes.biatec.io/",
+        "header": "X-Algo-API-Token",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
     }
 ]
