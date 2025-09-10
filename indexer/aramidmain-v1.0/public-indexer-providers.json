@@ -11,5 +11,18 @@
         "registrationRequired": false,
         "supportsARC0014": false,
         "limitPerSecond": 10
+    },
+    {
+        "id": "238d57d6-55cf-4db8-95df-1a6c992ff0d3",
+        "providerName": "Scholtz&Co",
+        "providerURL": "https://www.biatec.io",
+        "indexerHost": "https://aramid-indexer-public.de.nodes.biatec.io",
+        "indexerPort": 443,
+        "host": "https://aramid-indexer-public.de.nodes.biatec.io",
+        "header": "X-Algo-API-Token",
+        "token": "",
+        "registrationRequired": false,
+        "supportsARC0014": false,
+        "limitPerSecond": 10
     }
 ]
